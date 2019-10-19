@@ -1,0 +1,2 @@
+OpenRAM
+numpy>=1.11.0
