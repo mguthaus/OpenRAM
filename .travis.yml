@@ -1,8 +1,8 @@
 language: python
-services:
-  - docker
-before_install:
-- docker pull vlsida/openram
+#services:
+#  - docker
+#before_install:
+#- docker pull vlsida/openram
 python:
   - "3.6"      # current default Python on Travis CI
 # command to install dependencies
