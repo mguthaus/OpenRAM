@@ -10,5 +10,4 @@ install:
   - pip install -r requirements.txt
 # command to run tests
 script:
-#  - source set_paths.sh && python3 compiler/tests/regress.py
-  - python3 compiler/tests/regress.py
+  - source setpaths.sh && python3 compiler/tests/regress.py
